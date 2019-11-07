@@ -1,34 +1,10 @@
 {
-  "note": [
+  "login": [
     {
       "note_id": 1,
-      "judul": "Al-Insyirah 5-6",
-      "tanggal": "16 Oktober 2019",
-      "isi": "Text isi seporsi rindu"
-    },
-    {
-      "note_id": 2,
-      "judul": "Yang Masih Rahasia",
-      "tanggal": "24 Agustus 2019",
-      "isi": "Text isi pilihan tuhan"
-    },
-    {
-      "note_id": 3,
-      "judul": "Pilihan Tuhan",
-      "tanggal": "07 Maret 2019",
-      "isi": "Text isi pilihan tuhan"
-    },
-    {
-      "note_id": 4,
-      "judul": "Seporsi Rindu",
-      "tanggal": "18 Februari 2019",
-      "isi": "Text isi seporsi rindu"
-    },
-    {
-      "note_id": 5,
-      "judul": "Apa Kabar Januari",
-      "tanggal": "01 Januari 2019",
-      "isi": "isi apa kabar januari"
+      "nama": "Siapa",
+      "email": "coba",
+      "password": "1"
     }
   ]
 }
