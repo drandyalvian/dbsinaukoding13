@@ -5,12 +5,6 @@
       "nama": "Siapa",
       "email": "coba",
       "password": "1"
-    }, 
-    {
-      "message" : "true"
-    },
-    {
-      "message" : "false"
-    }
+    }   
   ]
 }
