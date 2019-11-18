@@ -1,16 +1,22 @@
 {
-  "login": [
+  "employees": [
     {
-      "note_id": 1,
-      "judul": "Abhishek",
-      "tanggal": "1994-08-28",
-      "isi": "Systems Engineer"
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
     },
     {
-      "note_id": 2,
-      "judul": "Abhishek",
-      "tanggal": "1994-08-28",
-      "isi": "Systems Engineer"
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
     }
   ]
 }
