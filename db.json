@@ -1,9 +1,16 @@
 {
-  "note": 
+  "note": [
     {
       "note_id": 1,
       "judul": "Abhishek",
       "tanggal": "1994-08-28",
       "isi": "Systems Engineer"
+    },
+    {
+      "note_id": 2,
+      "judul": "Abhishek",
+      "tanggal": "1994-08-28",
+      "isi": "Systems Engineer"
     }
+  ]
 }
