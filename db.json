@@ -1,16 +1,16 @@
 {
   "user": [
     {
-      "postId": 1,
       "id": 1,
-      "name": "Coeg",
-      "email": "Eliseo@gardner.biz",
+      "nama": "admin",
+      "pass" : "123",
+      "email": "asdede@gardner.biz",
       "body": "laudanti et nam sapiente accusantium"
     },
     {
-      "postId": 2,
       "id": 2,
-      "name": "Kamvreett",
+      "nama": "user",
+      "pass" : "123",
       "email": "Eliseo@gardner.biz",
       "body": "Bodyku ini bodymu mana"
     }
